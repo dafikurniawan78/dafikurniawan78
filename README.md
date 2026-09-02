@@ -8,7 +8,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=dafikurniawan78&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dafikurniawan78)&nbsp;
 [![Followers](https://img.shields.io/github/followers/dafikurniawan78?style=for-the-badge&color=0891b2&labelColor=0f172a&label=FOLLOWERS)](https://github.com/dafikurniawan78)&nbsp;
-![Status](https://img.shields.io/badge/✦%20OPEN%20TO%20WORK-16a34a?style=for-the-badge&labelColor=0f172a)
 
 </div>
 

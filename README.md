@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Dafi%20Kurniawan%20Yusuf&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=42&desc=✦%20Fullstack%20Developer%20·%20Frontend%20Developer%20·%20UI%20Designer%20✦&descAlignY=60&descSize=16&descColor=c7d2fe)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Dafi%20Kurniawan%20Yusuf&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=42)
 
 </div>
 
